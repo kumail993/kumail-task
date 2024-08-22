@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87463974818",
+    "project_id": "eaio-9e3cb",
+    "storage_bucket": "eaio-9e3cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87463974818:android:a989c8475468fd960544fb",
+        "android_client_info": {
+          "package_name": "com.example.eaisoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHabm9c4Fv8nsKCby6SrpcwaRB_SkTk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
